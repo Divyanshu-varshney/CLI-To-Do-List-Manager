@@ -1,0 +1,12 @@
+[
+    {
+        "id": 2,
+        "description": "Complete HackerRank SQL problems",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "description": "Learn Redis caching",
+        "completed": false
+    }
+]
